@@ -1,3 +1,5 @@
+> Apparently the latest Debian kernel 6.12.113 has a definition of cfg80211_rtw_set_channel the driver expects from kernel 6.13 upwards. Just changed the definition of the function to make it compile
+
 > [!WARNING]
 > After 8 years of maintaining this repository, and 6 years of doing so without the hardware this kernel module supports, I no longer have the time for it. I'm sure someone in the community will fork it and take up the mantle. See you around!
 
